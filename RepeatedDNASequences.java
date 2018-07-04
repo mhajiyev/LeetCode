@@ -1,4 +1,4 @@
-class Solution {
+ class Solution {
     public List<String> findRepeatedDnaSequences(String s) {
 	List<String> result = new ArrayList<String>();
  
